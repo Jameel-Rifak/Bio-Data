@@ -1,0 +1,43 @@
+
+img{
+    width: 240px;
+    height: 260px;
+    border-radius: 45px;
+    padding-top: 15px;
+}
+body{
+    margin: 40px;
+    background-image: url(EYTH8569.JPG);
+    background-position: center top ;
+    background-size: auto 100%;
+}
+
+.profile{
+    text-align: center;
+    background-color:#ffffff31;
+    border-radius: 10px;
+}
+.title{
+    background-color: #ffffff31;
+    color: #fff;
+    color: #000000;
+    font-family: "Merriweather", serif;
+}
+.bio{
+    background-color: #aac28f70;
+  margin: 10px;
+  text-align: center;
+  font-size: 15px;
+  
+}
+.details{
+    font-size: 17px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8%;
+    background-color: #ffffff4f;
+    background-bottom:5px ;
+    border-radius: 20px;
+}
+
